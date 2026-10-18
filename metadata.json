@@ -1,0 +1,6 @@
+{
+  "name": "Selah – Spiritual Prayer & Contemplative Ministry",
+  "description": "A calm, minimalist sanctuary for spiritual prayer, heartfelt intercession, and personal guidance. Submit prayer requests and discover contemplative offerings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
